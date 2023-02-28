@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alex, an <a href="https://www.linkedin.com/in/alexander-d-rodriguez-076479263/">IT Professional</a>☺</h1>
+<h1>Hi, my name is Alex, and I am a <a href="https://www.linkedin.com/in/alexander-d-rodriguez-076479263/">IT Professional!</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
